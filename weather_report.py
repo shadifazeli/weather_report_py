@@ -1,13 +1,6 @@
 # 날씨 예보 프로그램 (Open-Meteo API)
 # GitHub Repository:
 # https://github.com/shadifazeli/weather_report_py.git
-#
-# 기능
-# - 한국어 / 영어 출력 선택
-# - 사용자가 지역을 입력하면 해당 지역의 위도/경도를 검색
-# - 오늘부터 3일 동안 오전 6시 / 오후 3시 날씨 표시
-# - 일일 최저 / 최고 기온 표시
-# - 원하면 받아온 날씨 정보를 JSON 파일로 저장
 
 import json
 from datetime import datetime
